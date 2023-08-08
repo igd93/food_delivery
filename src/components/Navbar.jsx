@@ -7,7 +7,7 @@ import {
 } from "react-icons/ai";
 import { BsFillCartFill, BsFillSaveFill } from "react-icons/bs";
 import { TbTruckDelivery } from "react-icons/tb";
-import { MdFavorite, MdHelp} from "react-icons/md";
+import { MdFavorite, MdHelp } from "react-icons/md";
 import { FaWallet, FaUserFriends } from "react-icons/fa";
 
 const Navbar = () => {
