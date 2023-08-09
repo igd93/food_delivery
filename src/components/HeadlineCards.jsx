@@ -40,7 +40,7 @@ const HeadlineCards = () => {
         rounded-xl text-white"
         >
           <p className="font-bold text-2xl px-2 pt-4">
-            Special Offers
+            Italian cuisine
           </p>
           <p className="px-2">Changes weekly</p>
           <button
