@@ -60,7 +60,7 @@ export const data = [
     name: "Caesar Salad",
     category: "salad",
     image:
-      "https://images.pexels.com/photos/6940996/pexels-photo-6940996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
     price: "$$",
   },
   {
@@ -121,8 +121,8 @@ export const data = [
   },
   {
     id: 16,
-    name: "Pizza al Trufo",
-    category: "salad",
+    name: "Pizza al Tartufo",
+    category: "pizza",
     image:
       "https://images.unsplash.com/photo-1586934729750-2e32c19c2320?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     price: "$$$$",
