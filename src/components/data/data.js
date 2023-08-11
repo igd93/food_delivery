@@ -152,7 +152,7 @@ export const categories = [
     id: 4,
     name: "Mexican cuisine",
     image:
-      "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=684&q=80",
+      "https://images.unsplash.com/photo-1640983743761-4f0e0204bc58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
   },
   {
     id: 5,

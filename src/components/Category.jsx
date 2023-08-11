@@ -17,7 +17,7 @@ const Category = () => {
               key={index}
             >
               <h2 className="font-bold sm:text-xl">{item.name}</h2>
-              <img className="w-20 h-[100px] object-cover rounded-t-lg" src={item.image} alt={item.name} />
+              <img className="w-40 h-[200px] object-cover rounded-xl" src={item.image} alt={item.name} />
             </div>
           </div>
         ))}
