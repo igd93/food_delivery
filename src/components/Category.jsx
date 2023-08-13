@@ -10,11 +10,11 @@ const Category = () => {
       {/* Categories */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 pt-4">
         {categories.map((item, index) => (
-          <div>
+          <div key={index}>
             <div
               className="bg-gray-100 rounded-lg p-4 flex 
             justify-between items-center"
-              key={index}
+              
             >
               <h2 className="font-bold sm:text-xl">{item.name}</h2>
               <img className="w-40 h-[200px] object-cover rounded-xl" src={item.image} alt={item.name} />
